@@ -72,3 +72,7 @@ header{
 .hidden{
   color:#777777;
 }
+
+.portfolio {
+  display: flex;
+}
